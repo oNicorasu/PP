@@ -13,4 +13,6 @@ arquivo .c a ser pré-processado</p>
 compilação, deve continuar desta forma após o
 pré-processamento</p>
 
+● Comando para executar o código em python: "python3 preprocessor.py teste.c teste-preproc.c"
+
 <h2>Autor: Nicolas Mendes</h2>
